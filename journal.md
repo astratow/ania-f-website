@@ -42,4 +42,10 @@ so it gives impression of progress:
 
 That is for gallery. To be worked on.
 
+## 23.12.2021
+
+Finalized image sorting.
+
+Changed 6 portfolio cards into own. Named: Tree, Tree Branch, Birds, Leaves, Fungies, Blue Bird.
+
 
