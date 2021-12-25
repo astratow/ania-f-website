@@ -48,4 +48,6 @@ Finalized image sorting.
 
 Changed 6 portfolio cards into own. Named: Tree, Tree Branch, Birds, Leaves, Fungies, Blue Bird.
 
+## 24.12.2021
 
+Created html files for each portfolio. Added Blue Bird portfolio.
